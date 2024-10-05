@@ -6,7 +6,7 @@ Includes both a basic no-frills version, and an all-out souped up Mooltitool giz
 
 Details in this blog post: https://raphtronic.blogspot.com/2024/10/diy-trim-reveal-mooltitool-extravaganza.html
 
-Happy print to all !
+Happy printing to all !
 
 ![mooltitool top](https://github.com/user-attachments/assets/b1c4a5b4-41a4-459b-93d2-0e72c9694420)
 
