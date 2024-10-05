@@ -1,6 +1,6 @@
-# Trim_Reveal_Mooltitool
+# Trim Reveal Mooltitool
 
-Trim Reveal tool F3D Fusion360 CAD file, and STEP files for 3D printing.
+F3D Fusion360 CAD file, and STEP files for 3D printing.
 
 Includes both a basic no-frills version, and an all-out souped up Mooltitool gizmo !
 
